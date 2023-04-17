@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# AeroSpace-CairoUniversity-Class2026
+# AeroSpace-CairoUniversity
 Welcome to the Aerospace Students Class 2026 GitHub organization! This platform is dedicated to creating and sharing repositories that focus on different aspects of aerospace engineering, including ground tracks, flight mechanics, computational fluid dynamics (CFD), automation, and designs using Matlab and Python.
 
 The purpose of this organization is to provide a collaborative space for students to work together, share their knowledge, and build a community of aerospace engineers. By sharing code, ideas, and expertise, we hope to accelerate the learning process and help each other excel in our studies.
