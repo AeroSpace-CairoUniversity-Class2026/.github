@@ -35,3 +35,10 @@ Our organization has a discussion forum where you can ask questions, share ideas
 If you have any questions or need help with anything, please don't hesitate to reach out to our administrator. They are here to help you get the most out of our organization and support your learning in aerospace engineering.
 
 We hope that you find our organization to be a valuable resource for your studies and look forward to collaborating with you!
+
+> ***note: any code that is either public or private published in one or more of our repos are not allowed to be used publically or online in any way (commercially, other repos, online projects, ... etc) except in three cases:***
+> + a contributer or a member of the organization
+> + after request
+> + for education purposes after putting our name on it
+
+> ***bypassing this will lead to legal trouble***
